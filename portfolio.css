@@ -694,7 +694,7 @@ body {
     width: calc(3 * ((100% - 3 * 5rem) / 4) + 2 * 5rem); }
 
 .footer {
-  background-color: #4C5F9A;
+  background-color: #1041d6;
   padding: 2rem 0;
   font-size: 1.4rem; }
   @media (max-width: 56.25em) {
